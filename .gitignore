@@ -16,3 +16,6 @@
 
 # House keeping
 build/
+cmake-buid
+cmake-build-debug
+cmake-build-release
